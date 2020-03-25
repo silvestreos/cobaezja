@@ -1,0 +1,62 @@
+.boton{
+  background: #00b7f8;
+  border-bottom: 5px solid #0045a6;
+  border-radius: 12px;
+  background-color: #0e16a4;
+  box-shadow: 6px 6px 6px #999;
+  color: #fff;
+  cursor: pointer;
+  display: block;  
+  font-family: 'Raleway', Arial, Helvetica;
+  font-size: 28px;
+  text-decoration: none;
+  height: 22px;
+  margin:2px auto;
+  padding: 20px 20px;
+  text-align: center;
+  transition: all 0.2s ease 0s;
+  width: 220px; 
+}
+
+.boton:hover{
+	background: #0096f7;
+}
+.boton:active {
+	box-shadow: 2px 2px 2px #777, 0px 0px 35px 0px #00b7f8;
+	border-bottom:1px solid #0045A6;
+  text-shadow:  0px 0px 5px #fff, 0px 0px 5px #fff;
+	transform: translateX(4px);
+  transition: all 0.1s ease 0s;
+  margin: 30px auto 26px auto;
+}
+
+#visitado{
+  background:  #8f6234;
+  border-bottom: 5px solid #0045a6;
+  border-radius: 12px;
+  background-color: #8f6234;
+  box-shadow: 6px 6px 6px #999;
+  color: #fff;
+  cursor: pointer;
+  display: block;  
+  font-family: 'Raleway', Arial, Helvetica;
+  font-size: 28px;
+  text-decoration: none;
+  height: 22px;
+  margin:2px auto;
+  padding: 20px 20px;
+  text-align: center;
+  transition: all 0.2s ease 0s;
+  width: 220px;
+  }
+
+  #visitado:hover{
+  background: #0096f7;
+}
+  #visitado:active {
+  box-shadow: 2px 2px 2px #777, 0px 0px 35px 0px #00b7f8;
+  border-bottom:1px solid #0045A6;
+  text-shadow:  0px 0px 5px #fff, 0px 0px 5px #fff;
+  transform: translateX(4px);
+  transition: all 0.1s ease 0s;
+  margin: 30px auto 26px auto;
